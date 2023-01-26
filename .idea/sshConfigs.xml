@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="iogldev.sftp.wpengine.com" id="e0c1ecb6-c7f8-40bc-8483-7598a46cae20" port="2222" nameFormat="DESCRIPTIVE" username="iogldev-chuck" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="nwdevs.sftp.wpengine.com" id="e1a8ca32-3b46-4781-87bc-1254dbaeec89" port="2222" nameFormat="DESCRIPTIVE" username="nwdevs-chuck" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="rdcdevs.sftp.wpengine.com" id="1e284fe5-ad7a-408b-9b14-b80e1a280e99" port="2222" nameFormat="DESCRIPTIVE" username="rdcdevs-chuck" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
